@@ -1,4 +1,4 @@
-# FirstCapstone
+# Finance Calculator
 
 ##Financial calculator: an investment calculator and a home loan repayment calculator
 
